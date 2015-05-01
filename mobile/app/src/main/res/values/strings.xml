@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LegoRobotPi</string>
+    <string name="title_activity_connection">ConnectionActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lego_robot_pi">LegoRobotPiActivity</string>
+    <string name="title_activity_control">ControlActivity</string>
+
+</resources>

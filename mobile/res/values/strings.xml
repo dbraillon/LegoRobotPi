@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LegoRobotPi</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_video">VideoActivity</string>
+    
+    
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="label_button_connect_settings">Connect</string>
+    <string name="label_textview_ip_settings">IP</string>
+    <string name="label_textview_port_settings">PORT</string>
+
+</resources>

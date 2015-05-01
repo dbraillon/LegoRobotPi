@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="prompt_ip">IP</string>
+    <string name="prompt_port">Port</string>
+    <string name="action_connection">Connect</string>
+
+    <string name="error_invalid_ip">This IP is invalid</string>
+    <string name="error_invalid_port">This port is invalid</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_cant_connect">Can\'t connect</string>
+</resources>
